@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"./init.client\";\nimport \"./real.client\";","map":{"version":3,"sources":["/sandbox/src/client.js"],"names":[],"mappings":"AAAA,OAAO,eAAP;AACA,OAAO,eAAP","sourcesContent":["import \"./init.client\";\nimport \"./real.client\";\n"]},"metadata":{},"sourceType":"module"}

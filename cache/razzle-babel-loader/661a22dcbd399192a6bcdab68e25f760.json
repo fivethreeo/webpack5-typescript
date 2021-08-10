@@ -1,0 +1,1 @@
+{"ast":null,"code":"__webpack_public_path__ = window.PUBLIC_PATH;","map":{"version":3,"sources":["/sandbox/src/init.client.js"],"names":["__webpack_public_path__","window","PUBLIC_PATH"],"mappings":"AAAAA,uBAAuB,GAAGC,MAAM,CAACC,WAAjC","sourcesContent":["__webpack_public_path__ = window.PUBLIC_PATH;\n"]},"metadata":{},"sourceType":"script"}

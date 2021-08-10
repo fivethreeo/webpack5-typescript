@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"./init.client\";\nimport \"./real.client.tsx\";","map":{"version":3,"sources":["/sandbox/src/client.js"],"names":[],"mappings":"AAAA,OAAO,eAAP;AACA,OAAO,mBAAP","sourcesContent":["import \"./init.client\";\nimport \"./real.client.tsx\";\n"]},"metadata":{},"sourceType":"module"}

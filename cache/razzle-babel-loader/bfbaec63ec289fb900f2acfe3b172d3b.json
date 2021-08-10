@@ -1,0 +1,1 @@
+{"ast":null,"code":"__webpack_public_path__ = `https://${CODESANDBOX_HOST}`;","map":{"version":3,"sources":["/sandbox/src/init.server.js"],"names":["__webpack_public_path__","CODESANDBOX_HOST"],"mappings":"AAAAA,uBAAuB,GAAI,WAAUC,gBAAiB,EAAtD","sourcesContent":["__webpack_public_path__ = `https://${CODESANDBOX_HOST}`;\n"]},"metadata":{},"sourceType":"script"}
